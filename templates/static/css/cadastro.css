@@ -1,6 +1,6 @@
 
 .sidebar{
-    background-color: #30CD9E;
+    background-color: #3093cd;
     height: 100vh;
     }
     .cor_branca{
@@ -25,7 +25,7 @@
     .titulo{
     font-size: 50px;
     font-weight: bold;
-    border-bottom: 2px solid #1EA9B1;
+    border-bottom: 2px solid #3093cd;
     display: inline;
     }
     .descricao{
@@ -47,7 +47,7 @@
     }
     .titulo_area_cadastrar{
     font-size: 50px;
-    color: #30CD9E;
+    color: #3093cd;
     margin-top: 15%;
     font-weight: bold;
     }
@@ -74,7 +74,7 @@
     background-image: url('/static/image/senha.png');
     }
     .btn_cadastrar{
-    background-color: #30CD9E;
+    background-color: #3093cd;
     border: none;
     color: white;
     font-size: 30px;
