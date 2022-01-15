@@ -1,8 +1,5 @@
-# DevSearch
-Sourcode and Resources for Django 2021 Course
-
-See the full course here: https://dennisivy.teachable.com/p/django-beginners-course
-
+# real-estate-project
+Sourcode and Resources for Django 2022
 
 # Installation
 * 1 - clone repo https://github.com/brasiliancode/real-estate-project.git
@@ -17,7 +14,7 @@ See the full course here: https://dennisivy.teachable.com/p/django-beginners-cou
 
 
 # Features
-* Search for houses and apartments
+* Search for houses and apartaments
 * make appointments for visits
 
 
